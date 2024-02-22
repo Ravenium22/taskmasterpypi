@@ -16,7 +16,7 @@ TaskMaster is a simple command-line task management application written in Pytho
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-Ravenium22/TaskMaster.git
+    git clone https://github.com/Ravenium22/TaskMaster.git
     ```
 
 2. Navigate to the project directory:
